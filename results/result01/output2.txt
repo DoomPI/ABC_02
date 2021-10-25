@@ -1,0 +1,11 @@
+Filled container:
+The container has 3 elements.
+1: This is a film named "Animals". It was produced in 1999 year.
+It is a cartoon. It was created by using drawn method.
+The quotient equals 285.
+2: This is a film named "Pigs". It was produced in 2001 year.
+It is a gaming film. Director: Borovin.
+The quotient equals 500.
+3: This is a film named "Birds". It was produced in 2002 year.
+It is a documentary. Length: 180 minutes.
+The quotient equals 400.

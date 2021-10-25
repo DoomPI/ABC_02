@@ -1,0 +1,11 @@
+Filled container:
+The container has 3 elements.
+1: This is a film named "Forest Gump". It was produced in 1371 year.
+It is a gaming film. Director: Stanley Kubrick.
+The quotient equals 124.
+2: This is a film named "Harry Potter". It was produced in 286 year.
+It is a gaming film. Director: Stanley Kubrick.
+The quotient equals 23.
+3: This is a film named "Psycho". It was produced in 27 year.
+It is a documentary. Length: 135 minutes.
+The quotient equals 4.
